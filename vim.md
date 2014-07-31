@@ -49,7 +49,7 @@ Given the following users exist:
   | Joe   | joe@email.org   | 456   |
 
 
-# Commands
+## Commands
 
 - yank y
 - paste p
@@ -59,7 +59,7 @@ Given the following users exist:
 - delete x
 
 
-# Shift it
+## Shift it
 
 - Shift+command will do even more
 - yank line Y
@@ -69,7 +69,7 @@ Given the following users exist:
 - backspace X
 
 
-# Chaining
+## Chaining
 
 - Here we go...
 - Yank A Paragraph yap
@@ -78,7 +78,7 @@ Given the following users exist:
 - Repeat last action that changed file .
 
 
-# Motions
+## Motions
 
 - up down left right hjkl
 - top gg
@@ -92,12 +92,12 @@ Given the following users exist:
 - back and forward Ctrl-o Ctrl-i
 
 
-# Directory
+## Directory
 
 - Browse directory :e .
 
 
-# Tmate
+## Tmate
 
 ```bash
 brew tap nviennot/tmate
@@ -107,7 +107,7 @@ brew install tmate
 - Pair program remotely with vim with no lag
 
 
-# ViM on OSX??
+## ViM on OSX??
 
 - https://gist.github.com/damnhipster/
 - Gist: vim.md

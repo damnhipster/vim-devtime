@@ -88,7 +88,9 @@ Given the following users exist:
 - search /
 - go to character f
 - go to previous character F
-- scroll zz zt zb Ctrl-e Ctrl-y Ctrl-f Ctrl-b
+- scroll Ctrl-e Ctrl-y
+- scroll cursor to top zt, bottom zb and middle zz of screen
+- page up and down Ctrl-f Ctrl-b
 - back and forward Ctrl-o Ctrl-i
 
 
@@ -111,3 +113,22 @@ brew install tmate
 
 - https://gist.github.com/damnhipster/
 - Gist: vim.md
+
+
+## What else?
+
+- Plugins
+- Registers
+- Macros
+- Buffers
+- Configuration
+
+
+## Vimdeck
+
+Presenting vim in vim
+
+
+# Thanks!
+
+github.com/damnhipster/vim-devtime

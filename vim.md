@@ -49,8 +49,7 @@ Given the following users exist:
   | Joe   | joe@email.org   | 456   |
 
 
-# Basic
-# commands
+# Commands
 
 - yank y
 - paste p
@@ -79,8 +78,6 @@ Given the following users exist:
 - Repeat last action that changed file .
 
 
-# Navigating
-# &
 # Motions
 
 - up down left right hjkl
@@ -102,8 +99,10 @@ Given the following users exist:
 
 # Tmate
 
-$ brew tap nviennot/tmate
-$ brew install tmate
+```bash
+brew tap nviennot/tmate
+brew install tmate
+```
 
 - Pair program remotely with vim with no lag
 

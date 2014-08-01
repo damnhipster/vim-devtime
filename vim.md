@@ -109,6 +109,12 @@ brew install tmate
 - Pair program remotely with vim with no lag
 
 
+## Cool stuff
+
+- revert to earlier version :earlier 15m
+- save write protected file :w !sudo tee %
+
+
 ## ViM on OSX??
 
 - https://gist.github.com/damnhipster/

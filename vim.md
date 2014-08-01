@@ -43,10 +43,12 @@ end
 
 
 Given the following users exist:
-  | name  | email           | phone |
-  | Aslak | aslak@email.com | 123   |
-  | Matt  | matt@email.com  | 234   |
-  | Joe   | joe@email.org   | 456   |
+  | Tables | Are             | Cool  |
+  | ------ |:---------------:| -----:|
+  | name   | email           | phone |
+  | Aslak  | aslak@email.com | 123   |
+  | Matt   | matt@email.com  | 234   |
+  | Joe    | joe@email.org   | 456   |
 
 
 ## Commands
